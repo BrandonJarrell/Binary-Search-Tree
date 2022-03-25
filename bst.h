@@ -3,7 +3,7 @@
  *    Assignment 09, Binary Search Tree (BST)
  *    Brother Kirby, CS 235
  * Author:
- *    Michael George, Joshua White, Brandon Jarrell
+ *    Brandon Jarrell, Michael George
  * Summary:
  *    Create a binary search tree
  ************************************************************************/
