@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-# Binary Search Tree
+  Simple Binary Tree data structure
