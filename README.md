@@ -1,5 +1,5 @@
 # Binary-Search-Tree
-  Simple Binary Tree data structure
+  Simple Binary Tree data structure of Node data types (Data and pointers to parent, child left and child right)
   
   I did not include the main file that runs the search tree.
   
